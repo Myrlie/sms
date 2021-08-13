@@ -1,0 +1,15 @@
+.coltrans{
+    background-color: transparent;
+}
+
+#milieu{
+    display: flex;
+    align-items: center;
+}
+
+#fin{
+    display: flex;
+    /* justify-content: flex-end; */
+    align-items: flex-end;
+    
+}
